@@ -1,4 +1,4 @@
-# Project_2
+# CSGO Predictions
 Intro: This repository was built for the second project of AiCore.
 
 Purpose: The purpose of the project is predicting the outcome of a CSGO match based of ingame predictors such as time left in round,
